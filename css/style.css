@@ -166,6 +166,19 @@ header {
   text-align: center;
 }
 
+#navbar nav {
+  display: inline-block;
+  width: 16.6666667%;
+  margin: 0;
+  padding: 22px 0;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  text-decoration: none;
+  font-size: 1em "Trebuchet MS", Arial, sans-serif;
+}
+
 
 /*////////// LOGO //////////*/
 
